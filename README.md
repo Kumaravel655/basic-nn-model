@@ -19,6 +19,8 @@ output using regression.
 
 ![ds001](https://user-images.githubusercontent.com/75235334/187081945-b3f6b59b-40bd-4db0-9970-f5d27cf3599d.png)
 
+<br>
+<br>
 
 ## DESIGN STEPS
 
@@ -111,6 +113,8 @@ input=[[105]]
 input_scaled=scaler.transform(input)
 ai_brain.predict(input_scaled)
 ```
+<br>
+<br>
 
 ## Dataset Information
 
@@ -122,6 +126,10 @@ ai_brain.predict(input_scaled)
 ### Training Loss Vs Iteration Plot
 ![new1](https://user-images.githubusercontent.com/75235334/187083231-0814b081-103b-4c9f-a42a-4f8220039eae.png)
 
+<br>
+<br>
+<br>
+<br>
 
 ### Test Data Root Mean Squared Error
 ![new2](https://user-images.githubusercontent.com/75235334/187083238-ef7b27f5-292b-4385-841e-62cfb9840506.png)
