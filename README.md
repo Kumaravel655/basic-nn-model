@@ -1,6 +1,6 @@
 
 ### EX NO:01
-### DATE:
+### DATE:28.08.2022
 # <p align="center"> Developing a Neural Network Regression Model</p>
 
 
